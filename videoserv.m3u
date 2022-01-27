@@ -1,41 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yrg6wNN/indosiar.png"group-title="48ServerID-01",INDOSIAR HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMn1TBP/indosiar.png"group-title="48ServerID-01",INDOSIAR HD
 https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjy877Xx/sctv.png"group-title="48ServerID-01",SCTV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjbvKXfL/sctv.png"group-title="48ServerID-01",SCTV HD
 https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJjBCTJS/transtv.png"group-title="48ServerID-01",TRANS TV HD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNFMwm7R/transtv.png"group-title="48ServerID-01",TRANS TV HD 
 https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43c0QMJT/trans7.png"group-title="48ServerID-01",TRANS7 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXktk9KH/trans7.png"group-title="48ServerID-01",TRANS7 HD
 https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsW-wkP5G/rcti.png"group-title="48ServerID-01",RCTI HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTnNpZrW/rcti.png"group-title="48ServerID-01",RCTI HD
 https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zcQMtJ1/mnctv.png"group-title="48ServerID-01",MNCTV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fSPbxFS/mnctv.png"group-title="48ServerID-01",MNCTV HD
 https://cubmu.superzap.xyz:8279/mnctv/playlist.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjrKVLLD/gtv.png"group-title="48ServerID-01",GTV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQhpJXy7/gtv.png"group-title="48ServerID-01",GTV HD
 https://cubmu.superzap.xyz:8279/gtv/playlist.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big2.png"group-title="48ServerID-01",NET. HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43dkV3mP/net.png"group-title="48ServerID-01",NET. HD
 https://cubmu.superzap.xyz:8279/net/playlist.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big2.png"group-title="ShareExt@VIDIO",RTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G28WgSPs/rtv.png"group-title="ShareExt@VIDIO",RTV HD
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999&chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbpQcX7M/antv.png" group-title="ShareExt@TVdigital_INDONESIA",ANTV DIGITAL T2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjB78Rv6/antv.png" group-title="ShareExt@TVdigital_INDONESIA",ANTV DIGITAL T2
 http://202.150.172.34:4000/play/antvdigitalt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbpQcX7M/antv.png" group-title="INDONESIA",ANTV SD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjB78Rv6/antv.png" group-title="INDONESIA",ANTV SD
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw8z8xkw/metro.png"group-title="48ServerID-01",METRO HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY6PPxk7/metrotv.png"group-title="48ServerID-01",METRO HD
 https://cubmu.superzap.xyz:8279/metrotv/playlist.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjzBd23Y/tvone.png" group-title="48ServerID-01",TVONE SD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFCvH44g/tvone.png" group-title="48ServerID-01",TVONE SD
 http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsj3trq0/kompas.png"group-title="48ServerID-01",KOMPAS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZXrMqSz/kompas.png"group-title="48ServerID-01",KOMPAS HD
 https://cubmu.superzap.xyz:8279/kompas/playlist.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q5SgRhs/beritasatu.png"group-title="48ServerID-01",BERITA SATU HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t70hb7Vz/beritasatu.png"group-title="48ServerID-01",BERITA SATU HD
 https://cubmu.superzap.xyz:8279/beritasatu/playlist.m3u8?chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0xpz3c1/tvri.png"group-title="48ServerID-01",TVRI NASIONAL HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLjRjPhP/tvri.png"group-title="48ServerID-01",TVRI NASIONAL HD
 https://cubmu.superzap.xyz:8279/tvri/playlist.m3u8?chname=
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NNMJCQs/cinemax.png"group-title="48ServerID-01",CINEMAX HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y99Nf5HQ/cinemax.png"group-title="48ServerID-01",CINEMAX HD
 https://lnk.ec/cinemaxID?shareext.ts?chname=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp6V6dHS/hitmovies.png"group-title="48ServerID-01",HitMovies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ0tg8RG/hitmovies.png"group-title="48ServerID-01",HitMovies
 https://cubmu.superzap.xyz:8279/hitmovies/playlist.m3u8?chname=
 
 
